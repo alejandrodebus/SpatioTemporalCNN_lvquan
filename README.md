@@ -2,6 +2,8 @@
 
 Left ventricle quantification through spatio-temporal CNNs
 
+### Description
+
 ### Requeriments
 
 ```
@@ -12,4 +14,6 @@ Scipy
 Open MPI Cuda
 OpenBlas
 ```
+
+### Network Architecture
 
