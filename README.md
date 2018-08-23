@@ -1,6 +1,6 @@
-# SpatioTemporalCNN_lvquan
+# Left ventricle quantification through spatio-temporal CNNs
 
-Left ventricle quantification through spatio-temporal CNNs
+
 
 ### Description
 
