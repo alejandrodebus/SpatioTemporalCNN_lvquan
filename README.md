@@ -1,7 +1,5 @@
 # Left ventricle quantification through spatio-temporal CNNs
 
-
-
 ## Description
 
 ## Requeriments
