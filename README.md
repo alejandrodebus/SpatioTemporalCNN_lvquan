@@ -2,9 +2,9 @@
 
 
 
-### Description
+## Description
 
-### Requeriments
+## Requeriments
 
 ```
 Python 3
@@ -15,5 +15,8 @@ Open MPI Cuda
 OpenBlas
 ```
 
-### Network Architecture
+## Network Architecture
 
+## License
+
+## Acknowledgments
