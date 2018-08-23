@@ -5,7 +5,7 @@
 
 ```
 Python 3
-PyTorch
+PyTorch (>0.4)
 Numpy
 Scipy
 Open MPI Cuda
